@@ -10,7 +10,7 @@ This project builds a multi-class sentiment classifier to detect the rhetorical 
 - Explored real-time applications in platforms like Twitch to support healthier chat moderation
 
 ## 🗂 Project Files
-- `model.ipynb` – Notebook with preprocessing, model training, and evaluation
+- `Model.ipynb` – Notebook with preprocessing, model training, and evaluation
 - `Info 159 Annotation Project.pdf` – Official annotation rubric used for labeling training data
 
 ## 🛠️ Tech Stack
