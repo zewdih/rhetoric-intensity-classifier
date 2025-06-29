@@ -11,7 +11,7 @@ This project builds a multi-class sentiment classifier to detect the rhetorical 
 
 ## 🗂 Project Files
 - `model.ipynb` – Notebook with preprocessing, model training, and evaluation
-- `Annotation_Guide.pdf` – Official annotation rubric used for labeling training data
+- `Info 159 Annotation Project.pdf` – Official annotation rubric used for labeling training data
 
 ## 🛠️ Tech Stack
 Python, Scikit-learn, TF-IDF, NLTK, Jupyter Notebook
